@@ -7,9 +7,9 @@
 </p>
 <br>
 
-```
+`
 With the power of AI integrated into a powerful chatbot, it can solve all your basic medical necessities at the touch of a button
-```
+`
 
 <details id=1 open>
 <summary><h2>The Problem</h2></summary>
@@ -47,8 +47,12 @@ Try it out today and start feeling better tomorrow!! :smiley:
 </ul></p>
 </details>
 
-
-
+***
+# Telegram Bot
+```
+https://t.me/Mental_TheraPy_bot
+```
+***
 
 <a href="https://info.flagcounter.com/AuRi"><img src="https://s01.flagcounter.com/count2/AuRi/bg_A1A1A1/txt_000000/border_000000/columns_4/maxflags_4/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <img src="./bottom.svg">
